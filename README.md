@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Pavel</h1>
 
 I'm a front-end developer
+<br/>
 [![codewars](https://www.codewars.com/users/chobanyuk_pavel/badges/small)](https://www.codewars.com/users/chobanyuk_pavel) 
 
 Languages and tools
