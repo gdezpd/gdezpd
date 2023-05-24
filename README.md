@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Pavel</h1>
 
 [![codewars](https://www.codewars.com/users/chobanyuk_pavel/badges/small)](https://www.codewars.com/users/chobanyuk_pavel) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdezpd)](https://github.com/gdezpd/github-readme-stats)
 <!--
 **gdezpd/gdezpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
