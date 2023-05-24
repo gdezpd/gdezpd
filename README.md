@@ -13,7 +13,8 @@ Languages and tools
 Follow me
 <br/>
 <br/>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<a href="[https://daniilshat.ru/](https://www.linkedin.com/in/pavel-chobanyuk/)" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 **gdezpd/gdezpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
