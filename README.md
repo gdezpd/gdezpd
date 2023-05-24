@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pavel</h1>
-[![codewars](https://www.codewars.com/users/gdezpd/badges/small)](https://www.codewars.com/users/gdezpd) 
+[![codewars](https://www.codewars.com/users/chobanyuk_pavel/badges/small)](https://www.codewars.com/users/chobanyuk_pavel) 
 <!--
 **gdezpd/gdezpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
